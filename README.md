@@ -19,20 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jardelvictorgs)](https://github.com/jardelvictorgs/github-readme-stats)
 
-## Projetos
-
-### Jogo de Adivinhação de Números
-Um projeto em JavaScript onde o usuário tenta adivinhar um número aleatório gerado pelo sistema. O jogo oferece feedback sobre as tentativas do usuário e exibe uma mensagem quando o número é adivinhado corretamente.
-- **Tecnologias:** JavaScript
-- **Link:** [Veja o projeto](link-para-o-projeto)
-
-### Projeto Web
-Desenvolvimento de um projeto web com HTML, CSS e JavaScript, que inclui um carrossel de imagens usando a biblioteca Swiper. O projeto demonstra habilidades em layout responsivo e interação com o usuário.
-- **Tecnologias:** HTML, CSS, JavaScript, Swiper
-- **Link:** [Veja o projeto](link-para-o-projeto)
-
 ## Tecnologias e Ferramentas
-
 - HTML
 - CSS
 - JavaScript
